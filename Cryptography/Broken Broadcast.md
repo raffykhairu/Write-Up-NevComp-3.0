@@ -7,7 +7,7 @@
 | Points     | 0 pts (dynamic) |
 | Solves     | 4 |
 | Author     | geng |
-| Solved by  | raffy |
+| Solved by  | fy |
 | Status     | Upsolved after event |
 
 ## Challenge
