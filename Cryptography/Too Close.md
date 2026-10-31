@@ -14,7 +14,7 @@
 
 > Keep your friends close, but your prime numbers far apart😂
 
-- Files: `chall.py`
+- Files: `chall.py`, `out.txt`
 - Service: `nc 172.20.12.248:1111` (event infrastructure, now offline)
 
 ## Source code analysis
