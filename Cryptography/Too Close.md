@@ -1,10 +1,10 @@
-# Too Close (Cryptography, 1000 pts): NevComp 3.0
+# Too Close (Cryptography, 888 pts): NevComp 3.0
 
 | Field     | Value                        |
 | --------- | ---------------------------- |
 | Event     | NevComp 3.0, 31 October 2026 |
 | Category  | crypto                       |
-| Points    | 1000 (dynamic)               |
+| Points    | 888 (dynamic)               |
 | Solves    | 3                            |
 | Author    | geng                         |
 | Solved by | fy                        |

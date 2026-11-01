@@ -5,7 +5,7 @@
 | Event      | NevComp 3.0, 31 October 2026 |
 | Category   | crypto |
 | Points     | 0 pts (dynamic) |
-| Solves     | 4 |
+| Solves     | 3 |
 | Author     | geng |
 | Solved by  | fy |
 | Status     | Upsolved after event |
